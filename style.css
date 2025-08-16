@@ -1,0 +1,284 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.fon1{
+    background-image:url(images/Фон1.webp ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fon1__LogoR{
+    padding-left: 128px;
+    padding-top: 29px;
+}
+.fon1__LogoS{
+    padding-top: 35px;
+    padding-right: 130px;
+}
+.fon1__ImageR{
+    border-radius: 6px;
+}
+.fon1__logo-sectyon{
+    display:flex;
+    justify-content: space-between;
+}
+.Menu{
+    display:flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color:white;
+    margin:0 25px;
+    font-size: 20px;
+}
+.White{
+    color:white;
+}
+.fon1__Surv{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 321px;
+    font-size: 40px;
+}
+.fon1__Surv1{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 375px;
+}
+.Razdel{
+    background-color: black;
+    height: 5px;
+}
+.fon2__margin{
+    margin-top:-15px;
+    margin-bottom: 5px;
+}
+.fon2{
+    background-image:url(images/Фон2.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 0;
+}
+.fon2__fn{
+    display: flex;
+    justify-content: space-around;
+}
+.fon2__WhRust{
+    display: flex;
+    flex-flow:column wrap;
+    padding-top:242px;
+    color:white;
+    font-size: 25px;
+}
+.fon2__Rocket{
+    padding-top:150px;
+}
+.fon2__Arrow{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.Fon3{
+    background-image: url(Rectangle.png), url(images/Фон3.webp) ;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 0;
+}
+.Fon3__WhSpecial1{
+    display: flex;
+    flex-flow: column wrap;
+    align-content: flex-end ;
+    padding-top: 357px;
+    padding-right: 232px;
+    color: white;
+    font-size: 25px;
+    line-height: 30%;
+}
+.Red{
+    color:#FF4848
+}
+.Fon3_Features{
+    display: flex;
+    flex-flow:column wrap;
+    align-content: flex-end;
+    padding-right: 35px;
+    padding-bottom: 125px;
+    color:white;
+    font-size:20px;
+    line-height: 30%;
+}
+.Fon3__Arrow{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.Fon4{
+    background-image:url(images/Фон4.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: 0;
+}
+.Fon4__System{
+    display: flex;
+    flex-flow:column wrap;
+    align-content: flex-end;
+    padding-top:140px;
+    padding-right: 100px;
+    color: White;
+    font-size:30px;
+    line-height: 30%;
+}
+.Fon4__requirements{
+    display:flex;
+    justify-content: flex-start;
+    padding-left: 100px;
+    padding-top:200px;
+}
+.Fon4__Arrow{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.Fon5{
+    background-image:url(Фон5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: 0
+}
+.Fon5__margin{
+    margin-top:-15px;
+    margin-bottom:5px;
+}
+.Fon5__fn{
+    display: flex;
+    justify-content: space-around;
+}
+.Fon5__Press{
+    display: flex;
+    flex-flow:column wrap;
+    padding-top:303px;
+    padding-left:122px ;
+    color:white;
+    font-size: 25px;
+}
+.Fon5__Images{
+    display: flex;
+    flex-flow:column;
+    justify-content: space-around;
+    padding-top: 150px;
+    padding-bottom: 65px;
+}
+.Fon5__Comment1{
+    padding-left:132px;
+}
+.Fon5__Comment2{
+    margin-top:69px;
+    margin-bottom:30px;
+    padding-right: 77px;
+}
+.Fon5__Comment3{
+    padding-left: 106px;
+}
+.Fon5__Arrow{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.Fon6{
+    background-image:url(Фон6.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: 0;
+}
+.Fon6__fn{
+    display: flex;
+    justify-content: space-around;
+}
+.Fon6__Group{
+    display:flex;
+    flex-flow:column wrap;
+    align-content: flex-start;
+    padding-top:320px;
+    color:white;
+    font-size: 25px;
+    line-height: 50%;
+}
+.Fon6__Astronaut{
+    padding-top:109px;
+    padding-bottom: 40px;
+
+}
+.Giper{
+    display:inline;
+    color:Black;
+    background-color: rgba(255, 0, 106, 0.849);
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius: 6px;
+}
+.Fon6__Blue{
+    display: inline;
+    color: rgb(36, 103, 248);
+    text-decoration: none;
+    font-size: 45px;
+}
+.Fon7{
+    background-image:url(blackFon7.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: 0;
+}
+.Fon7__fn{
+    display:flex;
+    justify-content: space-around;
+}
+.Fon7__LogoR{
+    display:flex;
+    justify-content: start;
+    padding-bottom: 30px;
+    padding-left:65px;
+}
+.Fon7__ImageR{
+    border-radius: 6px;
+}
+.Fon7__LogoS{
+    display: flex;
+    justify-content: end;
+    padding-top:40px;
+}
+.Fon7__Menu{
+    display:flex;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: center;
+    padding-top:70px;
+}
+.Fon7__line{
+    padding-left: 163px;
+}
+.Fon7__gray{
+    display:flex;
+    justify-content: start;
+    padding-left:170px;
+    color:gray;
+}
